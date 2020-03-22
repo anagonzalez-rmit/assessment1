@@ -534,9 +534,15 @@ h1, h2, h3, h4, h5, h6 {
     min-height: 600px;
     height: calc(80vh); }
   .site-blocks-cover h1 {
-    font-size: 6rem;
+    font-size: 5.5rem;
     font-weight: 900;
     line-height: 1; }
+    .site-blocks-cover h2{
+      color: #fff;
+      text-transform: uppercase;
+      letter-spacing: 0.3rem;
+      font-weight: 300;
+    }
     @media (max-width: 991.98px) {
       .site-blocks-cover h1 {
         font-size: 4rem; } }
